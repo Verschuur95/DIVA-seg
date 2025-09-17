@@ -80,7 +80,8 @@ If you use this model, please cite:
 
 ```
 nnU-Net v2: Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2020). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature Methods, 1-9.
-
+```
+```
 DIVA-seg: Verschuur, A.S., Zhang, J. Kamphuis, M.J., Tax, C.M.W., van der Schaaf, I.C. [year] Towards improved decision making of unruptured intracranial aneurysms using automated segmentation from MRA-TOF. [journal] [vol,issue,pages]
 
 ```
