@@ -1,5 +1,5 @@
 # DIVA-seg
-Deep learning for intracranial vessel and aneurysm segmentation from MRA-TOF based on nnU-Net v2
+Deep learning for Intracranial Vessel and Aneurysm segmentation from MRA-TOF based on nnU-Net v2
 
 ## Overview
 This repository provides a trained segmentation model based on **nnU-Net v2**.  
