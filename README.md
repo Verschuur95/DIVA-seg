@@ -6,9 +6,9 @@ This repository provides a trained segmentation model based on **nnU-Net v2**.
 The model was trained on proprietary data and therefore the training data cannot be shared. Only the model weights and configuration files required for inference are included.  
 
 - **Framework:** nnU-Net v2  
-- **Task:** [Vessel and aneurysm segmentation from MRA-TOF scans]  
-- **Input:** [1. MRA-TOF image, and 2. binary image with aneurysm center of mass. both NIfTI format]  
-- **Output:** [segmentation mask of vessels (label 1) and aneurysms (label 2)]  
+- **Task:** Vessel and aneurysm segmentation from MRA-TOF scans  
+- **Input:** 1. MRA-TOF image, and 2. binary image with aneurysm center of mass. both NIfTI format  
+- **Output:** segmentation mask of vessels (label 1) and aneurysms (label 2)  
 
 ---
 
