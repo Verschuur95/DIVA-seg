@@ -36,10 +36,10 @@ DIVA-seg/
 		├── checkpoint_final.pth         # trained weights
 		├── debug.json
 		├── progress.png
-	├── dataset.json                         # dataset specification
-	├── dataset_fingerprint.json             # dataset fingerprint
-	├── plans.json                           # preprocessing & architecture plans
-└── README.md                                    # this document
+	├── dataset.json                     # dataset specification
+	├── dataset_fingerprint.json         # dataset fingerprint
+	├── plans.json                       # preprocessing & architecture plans
+└── README.md                            # this document
 ```
 
 ---
@@ -52,7 +52,7 @@ Make sure you have nnU-Net v2 installed:
 pip install nnunetv2
 ```
 
-### 2. Place the model
+### 2. Download the trained model
 Copy the `DIVA-seg/` folder into your nnU-Net results directory:  
 ```bash
 $RESULTS_FOLDER/<TaskName>/nnUNetTrainer__nnUNetPlans__3d_fullres
